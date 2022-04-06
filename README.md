@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fructosepadre
+- 👋 Hi, I’m Utkarsh
 - 👀 I’m interested in search platforms
 - 🌱 I’m currently working with JAVA, SOLR, PYTHON, VUE.JS, ELASTICSEARCH, SPLUNK
 - 📫 How to reach me +91 7550172877 / utkarshsingh3004@gmail.com
