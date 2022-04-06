@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fructosepadre
 - 👀 I’m interested in search platforms
-- 🌱 I’m currently learning SOLR/ES
+- 🌱 I’m currently working with JAVA, SOLR, PYTHON, VUE.JS, ELASTICSEARCH, SPLUNK
 - 📫 How to reach me +91 7550172877 / utkarshsingh3004@gmail.com
 
 <!---
